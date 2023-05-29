@@ -3,7 +3,7 @@
 ПОИСК ОДИНАКОВЫХ ТОВАРОВ НА МАРКЕТПЛЕЙСЕ
 https://leaders2023.innoagency.ru/task_5.html
 
-# Прядок работы
+# Порядок работы
 
 1. В файле data_process.py задать путь к данным DATASET_PATH и WORK_PATH (сабмиты будут в каталоге WORK_PATH\predictions).
 2. Для подготовки данных запустить скрипт 0_process_data.py (Для комфортной работы ОЗУ не менее 32Г).
